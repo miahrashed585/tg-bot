@@ -1,5 +1,5 @@
 {
-  "name": "mirror-bot",
+  "name": "MH TG BOT",
   "version": "2.0.0",
   "description": "A telegram bot to mirror files to Google Drive",
   "main": "index.js",
